@@ -1,0 +1,48 @@
+{
+  "name": "Darkyoto",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "firenow",
+      "bundleIdentifier": "com.dxx.firenow",
+      "marketplaceID": "",
+      "developerName": "Darkyoto",
+      "subtitle": "Hack",
+      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
+      "iconURL": "https://i.imgur.com/mpfRSEO.png",
+      "tintColor": "#fc840c",
+      "category": "other",
+      "screenshots": [
+        "http://jn49q7jhr3f0jk4y.myfritz.net:8000/unnamed.png"
+      ],
+      "versions": [
+        {
+          "version": "v2.5",
+          "date": "2025-05-07T11:36:00+02:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "http://jn49q7jhr3f0jk4y.myfritz.net:8000/Survivor%21.io%20Hack%20No%20Jailbreak%20Cheats%204.2.1%20Hacked%20IPA%20by%20iOSGods.com.ipa",
+          "size": 8161611,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Survivor.io",
+          "NSPhotoLibraryAddUsageDescription": "save the share image to your library",
+          "NSPhotoLibraryUsageDescription": "save the share image to your library",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
