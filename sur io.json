@@ -1,0 +1,49 @@
+{
+  "name": "Survivor!.io Hack Source",
+  "subtitle": "No Jailbreak Cheats",
+  "description": "Hacked version of Survivor!.io with Damage Multiplier, Never Die, Infinite Magnet, No Skill Cooldown, and Jailbreak Check Removed. Distributed via AltStore.",
+  "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "website": "https://iosgods.com",
+  "tintColor": "#FF6B35",
+  "featuredApps": [
+    "com.dxx.firenow"
+  ],
+  "apps": [
+    {
+      "name": "Survivor!.io Hack",
+      "bundleIdentifier": "com.dxx.firenow",
+      "developerName": "iOSGods",
+      "subtitle": "v4.2.1 Hacked IPA",
+      "localizedDescription": "Survivor!.io - Roguelite zombie survival with cheats: Damage Multiplier, Never Die, Infinite Magnet, No Skills Cooldown. No jailbreak required. Battle 1000+ monsters with one-hand controls and unlimited skill combos.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/2d/5e/8b2d5e8a-5e8a-5e8a-5e8a-5e8a5e8a5e8a/source/512x512bb.jpg",
+      "tintColor": "#FF6B35",
+      "versions": [
+        {
+          "version": "4.2.1",
+          "buildVersion": "421",
+          "date": "2025-10-31T12:00:00+01:00",
+          "downloadURL": "http://jn49q7jhr3f0jk4y.myfritz.net:8000/Survivor%21.io%20Hack%20No%20Jailbreak%20Cheats%204.2.1%20Hacked%20IPA%20by%20iOSGods.com.ipa",
+          "size": 125829120,
+          "localizedDescription": "Latest hack update: Damage Multiplier, Never Die, Infinite Magnet, No Cooldowns, JB Check Removed.",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Survivor!.io Hack v4.2.1 Released!",
+      "identifier": "survivor-hack-421",
+      "caption": "New cheats: Damage Multiplier, Never Die, Infinite Magnet, No Cooldowns.",
+      "date": "2025-10-31",
+      "tintColor": "#FF6B35",
+      "notify": true,
+      "appID": "com.dxx.firenow"
+    }
+  ]
+}
