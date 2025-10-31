@@ -1,0 +1,61 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
+      "developerName": "OatmealDome",
+      "downloadURL": "http://jn49q7jhr3f0jk4y.myfritz.net:8000/Survivor%21.io%20Hack%20No%20Jailbreak%20Cheats%204.2.1%20Hacked%20IPA%20by%20iOSGods.com.ipa",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "name": "DolphiniOS",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+	      "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "size": 79138816,
+      "subtitle": "GameCube and Wii games on the go.",
+      "tintColor": "41cdff",
+      "version": "3.1.1",
+      "versionDate": "2020-11-13T15:00:00-04:00",
+      "versionDescription": "Devices with A12 processors and newer running iOS 14.2 are now supported.\n\nFind the full changelog here: https://oatmealdome.me/blog/dolphinios-ver-3-1-1/"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "developerName": "OatmealDome",
+      "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Beta-Uni-3.2.0-145.ipa",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+      "localizedDescription": "This is the public beta version of DolphiniOS. This version may be more unstable and/or buggy than the non-beta version.\n\nDolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "name": "DolphiniOS (Public Beta)",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+	      "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "size": 79138816,
+      "subtitle": "Test the latest DolphiniOS.",
+      "tintColor": "ffbb3d",
+      "version": "3.2.0b1",
+      "versionDate": "2020-12-07T16:00:00-05:00",
+      "versionDescription": "Please see the detailed changelog here: https://oatmealdome.me/blog/dolphinios-ver-3-2-0-beta-1/"
+    }
+  ],
+  "identifier": "me.oatmealdome.altstore",
+  "name": "OatmealDome's AltStore Source",
+  "news": [
+    {
+      "appID": "me.oatmealdome.dolphinios-njb",
+      "caption": "Play GameCube and Wii classics on your non-jailbroken iPhone or iPad.",
+      "date": "2020-05-04",
+      "identifier": "dolphinios-first-release",
+      "imageURL": "https://cdn.oatmealdome.me/dolphinios/altstore/ios_marketing1024x1024_nobg.png",
+      "notify": false,
+      "tintColor": "363636",
+      "title": "DolphiniOS is here"
+    }
+  ],
+  "userInfo": {}
+}
