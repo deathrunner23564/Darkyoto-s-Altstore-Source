@@ -1,0 +1,24 @@
+{
+  "name": "Darkyoto",
+  "identifier": "net.darkyoto.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Survivor.io",
+      "bundleIdentifier": "net.darkyoto.Survivor",
+      "developerName": "Darkyoto",
+      "subtitle": "Hack",
+      "version": "v2.5",
+      "versionDate": "2025-05-07T11:36:00+02:00",
+      "versionDescription": "DCNet support, new on-screen gamepad",
+      "downloadURL": "http://jn49q7jhr3f0jk4y.myfritz.net:8000/Survivor%21.io%20Hack%20No%20Jailbreak%20Cheats%204.2.1%20Hacked%20IPA%20by%20iOSGods.com.ipa",
+      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
+      "iconURL": "http://jn49q7jhr3f0jk4y.myfritz.net:8000/unnamed.png",
+      "tintColor": "9b54fd",
+      "size": 8161611,
+      "screenshotURLs": [
+        "http://jn49q7jhr3f0jk4y.myfritz.net:8000/unnamed.png"
+      ]
+    }
+  ]
+}
